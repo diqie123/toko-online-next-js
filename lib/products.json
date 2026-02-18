@@ -1,0 +1,377 @@
+[
+  {
+    "id": "p-001",
+    "slug": "headphone-wireless-aurora",
+    "name": "Headphone Wireless Aurora",
+    "description": "Headphone wireless dengan noise isolation dan baterai tahan lama. Cocok untuk kerja, gaming, dan commute.",
+    "price": 599000,
+    "category": "Elektronik",
+    "images": [
+      "https://images.unsplash.com/photo-1518441315002-7b65f38c674f?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.6,
+    "stock": 24,
+    "variants": [
+      { "name": "Warna", "options": ["Hitam", "Putih", "Midnight Blue"] }
+    ],
+    "createdAt": "2026-01-18T10:00:00.000Z",
+    "tags": ["wireless", "audio"]
+  },
+  {
+    "id": "p-002",
+    "slug": "smartwatch-pulse-pro",
+    "name": "Smartwatch Pulse Pro",
+    "description": "Smartwatch dengan pemantau detak jantung, notifikasi, dan mode olahraga. Tahan air untuk pemakaian harian.",
+    "price": 799000,
+    "category": "Elektronik",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.4,
+    "stock": 18,
+    "variants": [
+      { "name": "Ukuran", "options": ["40mm", "44mm"] },
+      { "name": "Warna", "options": ["Graphite", "Silver"] }
+    ],
+    "createdAt": "2026-01-21T10:00:00.000Z",
+    "tags": ["wearable", "fitness"]
+  },
+  {
+    "id": "p-003",
+    "slug": "keyboard-mechanical-neo",
+    "name": "Keyboard Mechanical Neo",
+    "description": "Keyboard mechanical compact dengan switch yang responsif dan lampu RGB. Nyaman untuk mengetik dan bermain.",
+    "price": 499000,
+    "category": "Elektronik",
+    "images": [
+      "https://images.unsplash.com/photo-1541140134513-85a161dc4a00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.7,
+    "stock": 30,
+    "variants": [
+      { "name": "Switch", "options": ["Linear", "Tactile", "Clicky"] }
+    ],
+    "createdAt": "2026-01-10T10:00:00.000Z",
+    "tags": ["keyboard", "mechanical"]
+  },
+  {
+    "id": "p-004",
+    "slug": "camera-bag-city-slim",
+    "name": "Camera Bag City Slim",
+    "description": "Tas kamera ringkas dengan padding tebal dan kompartemen fleksibel. Ideal untuk street photography.",
+    "price": 269000,
+    "category": "Aksesoris",
+    "images": [
+      "https://images.unsplash.com/photo-1516937941344-00b4e0337589?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1495576775845-1f03fe02f6e5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.3,
+    "stock": 15,
+    "variants": [{ "name": "Warna", "options": ["Olive", "Black"] }],
+    "createdAt": "2025-12-28T10:00:00.000Z",
+    "tags": ["bag", "camera"]
+  },
+  {
+    "id": "p-005",
+    "slug": "tshirt-cotton-essential",
+    "name": "T-Shirt Cotton Essential",
+    "description": "Kaos katun premium dengan potongan regular fit. Nyaman, breathable, dan mudah dipadukan.",
+    "price": 129000,
+    "category": "Fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1520975958225-9a8d8b2c6f8b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.5,
+    "stock": 80,
+    "variants": [
+      { "name": "Ukuran", "options": ["S", "M", "L", "XL"] },
+      { "name": "Warna", "options": ["Putih", "Hitam", "Navy"] }
+    ],
+    "createdAt": "2026-01-05T10:00:00.000Z",
+    "tags": ["tshirt", "cotton"]
+  },
+  {
+    "id": "p-006",
+    "slug": "hoodie-urban-cozy",
+    "name": "Hoodie Urban Cozy",
+    "description": "Hoodie fleece lembut dengan hood adjustable. Hangat dan cocok untuk aktivitas outdoor ringan.",
+    "price": 249000,
+    "category": "Fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1520975661595-6453be3f7070?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975916190-6e58b1f11516?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.4,
+    "stock": 42,
+    "variants": [
+      { "name": "Ukuran", "options": ["M", "L", "XL"] },
+      { "name": "Warna", "options": ["Ash", "Black"] }
+    ],
+    "createdAt": "2025-12-20T10:00:00.000Z",
+    "tags": ["hoodie", "fleece"]
+  },
+  {
+    "id": "p-007",
+    "slug": "sneakers-runner-lite",
+    "name": "Sneakers Runner Lite",
+    "description": "Sepatu sneakers ringan dengan outsole empuk. Cocok untuk jalan santai dan olahraga ringan.",
+    "price": 349000,
+    "category": "Fashion",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1528701800489-20be3c55a7b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542291026-42f16d9eac8a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.2,
+    "stock": 36,
+    "variants": [
+      { "name": "Ukuran", "options": ["39", "40", "41", "42", "43"] }
+    ],
+    "createdAt": "2026-01-02T10:00:00.000Z",
+    "tags": ["shoes", "sneakers"]
+  },
+  {
+    "id": "p-008",
+    "slug": "backpack-commute-22l",
+    "name": "Backpack Commute 22L",
+    "description": "Tas ransel harian 22L dengan sleeve laptop dan banyak kantong organizer. Nyaman untuk kerja/kampus.",
+    "price": 299000,
+    "category": "Aksesoris",
+    "images": [
+      "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975953224-2d6b4a3b6a12?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509762774605-f07235a08f1f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.6,
+    "stock": 28,
+    "variants": [{ "name": "Warna", "options": ["Charcoal", "Navy"] }],
+    "createdAt": "2025-12-30T10:00:00.000Z",
+    "tags": ["bag", "laptop"]
+  },
+  {
+    "id": "p-009",
+    "slug": "sunglasses-polarized-sky",
+    "name": "Sunglasses Polarized Sky",
+    "description": "Kacamata hitam polarized untuk mengurangi silau. Frame ringan dan nyaman dipakai seharian.",
+    "price": 159000,
+    "category": "Aksesoris",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975981135-63b5e4f2b4c7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.1,
+    "stock": 54,
+    "variants": [{ "name": "Warna", "options": ["Black", "Tortoise"] }],
+    "createdAt": "2026-01-08T10:00:00.000Z",
+    "tags": ["sunglasses"]
+  },
+  {
+    "id": "p-010",
+    "slug": "wallet-leather-minimal",
+    "name": "Wallet Leather Minimal",
+    "description": "Dompet kulit minimalis dengan slot kartu dan kompartemen uang. Desain slim, muat di saku depan.",
+    "price": 189000,
+    "category": "Aksesoris",
+    "images": [
+      "https://images.unsplash.com/photo-1518893494013-481c1d8ed3fd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520975907936-73c9f4c0f4f8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590739225287-2eebd92f7747?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.5,
+    "stock": 40,
+    "variants": [{ "name": "Warna", "options": ["Brown", "Black"] }],
+    "createdAt": "2026-01-12T10:00:00.000Z",
+    "tags": ["wallet", "leather"]
+  },
+  {
+    "id": "p-011",
+    "slug": "coffee-beans-aceh-gayo-1kg",
+    "name": "Kopi Arabica Aceh Gayo 1kg",
+    "description": "Biji kopi arabica dengan karakter floral dan aftertaste manis. Cocok untuk V60, AeroPress, dan espresso ringan.",
+    "price": 195000,
+    "category": "Makanan",
+    "images": [
+      "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.8,
+    "stock": 60,
+    "variants": [
+      { "name": "Grind", "options": ["Whole Bean", "Medium", "Fine"] }
+    ],
+    "createdAt": "2026-01-25T10:00:00.000Z",
+    "tags": ["coffee"]
+  },
+  {
+    "id": "p-012",
+    "slug": "granola-honey-almond-500g",
+    "name": "Granola Honey Almond 500g",
+    "description": "Granola renyah dengan madu dan almond. Pas untuk sarapan atau topping yogurt.",
+    "price": 79000,
+    "category": "Makanan",
+    "images": [
+      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.2,
+    "stock": 75,
+    "createdAt": "2026-01-03T10:00:00.000Z",
+    "tags": ["snack", "breakfast"]
+  },
+  {
+    "id": "p-013",
+    "slug": "cooking-oil-coconut-1l",
+    "name": "Minyak Kelapa Murni 1L",
+    "description": "Minyak kelapa murni untuk masak dan serbaguna. Aroma ringan, cocok untuk tumis dan baking.",
+    "price": 69000,
+    "category": "Makanan",
+    "images": [
+      "https://images.unsplash.com/photo-1524594227084-b53c5b62f2b8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524594227084-0516f8342d8c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1504703395950-b89145a5425b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.0,
+    "stock": 90,
+    "createdAt": "2025-12-22T10:00:00.000Z",
+    "tags": ["cooking", "oil"]
+  },
+  {
+    "id": "p-014",
+    "slug": "skincare-serum-vit-c",
+    "name": "Serum Vitamin C Bright",
+    "description": "Serum vitamin C untuk membantu mencerahkan dan meratakan warna kulit. Tekstur ringan dan cepat meresap.",
+    "price": 99000,
+    "category": "Kecantikan",
+    "images": [
+      "https://images.unsplash.com/photo-1612810806546-ebbf22b53496?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1612810806692-efc1e4c7a1bb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556228578-5677a5f2b1d6?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.3,
+    "stock": 55,
+    "createdAt": "2026-01-16T10:00:00.000Z",
+    "tags": ["skincare"]
+  },
+  {
+    "id": "p-015",
+    "slug": "skincare-moisturizer-night",
+    "name": "Moisturizer Night Repair",
+    "description": "Pelembap malam untuk membantu hidrasi dan menjaga skin barrier. Cocok untuk kulit normal-kering.",
+    "price": 119000,
+    "category": "Kecantikan",
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-2ed1acb1b9d8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1612810806546-6b7cf2d80a3c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.6,
+    "stock": 48,
+    "createdAt": "2026-01-07T10:00:00.000Z",
+    "tags": ["skincare"]
+  },
+  {
+    "id": "p-016",
+    "slug": "lip-balm-berry",
+    "name": "Lip Balm Berry",
+    "description": "Lip balm dengan aroma berry dan kandungan pelembap untuk bibir terasa lembut sepanjang hari.",
+    "price": 35000,
+    "category": "Kecantikan",
+    "images": [
+      "https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.1,
+    "stock": 120,
+    "variants": [{ "name": "Aroma", "options": ["Berry", "Vanilla"] }],
+    "createdAt": "2026-01-01T10:00:00.000Z",
+    "tags": ["lipcare"]
+  },
+  {
+    "id": "p-017",
+    "slug": "home-mug-ceramic-nordic",
+    "name": "Mug Keramik Nordic",
+    "description": "Mug keramik dengan desain minimalis nordic. Cocok untuk kopi, teh, atau cokelat hangat.",
+    "price": 65000,
+    "category": "Rumah",
+    "images": [
+      "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511920170033-35ed5ef2d6ce?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.7,
+    "stock": 70,
+    "variants": [{ "name": "Warna", "options": ["Ivory", "Sage", "Black"] }],
+    "createdAt": "2025-12-26T10:00:00.000Z",
+    "tags": ["home", "kitchen"]
+  },
+  {
+    "id": "p-018",
+    "slug": "home-candle-lavender",
+    "name": "Lilin Aromaterapi Lavender",
+    "description": "Lilin aromaterapi dengan wangi lavender yang menenangkan. Cocok untuk relaksasi dan suasana kamar.",
+    "price": 89000,
+    "category": "Rumah",
+    "images": [
+      "https://images.unsplash.com/photo-1511871893393-82e9c16b81e3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517511620798-cec17d428bc0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.4,
+    "stock": 62,
+    "createdAt": "2026-01-09T10:00:00.000Z",
+    "tags": ["home", "aroma"]
+  },
+  {
+    "id": "p-019",
+    "slug": "bedsheet-cotton-sateen",
+    "name": "Bedsheet Cotton Sateen",
+    "description": "Sprei katun sateen lembut dan adem. Bahan halus dengan kilau ringan, nyaman untuk tidur.",
+    "price": 279000,
+    "category": "Rumah",
+    "images": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1541976844346-f18aeac57b06?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.2,
+    "stock": 22,
+    "variants": [
+      { "name": "Ukuran", "options": ["Single", "Queen", "King"] }
+    ],
+    "createdAt": "2026-01-14T10:00:00.000Z",
+    "tags": ["home", "bedroom"]
+  },
+  {
+    "id": "p-020",
+    "slug": "portable-blender-freshgo",
+    "name": "Portable Blender FreshGo",
+    "description": "Blender portable untuk smoothie dan jus. Ringkas, rechargeable, cocok untuk dibawa traveling.",
+    "price": 229000,
+    "category": "Elektronik",
+    "images": [
+      "https://images.unsplash.com/photo-1547058540-3f9f2a5d640b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542444459-db63c7b1d3b6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1561047029-3000f67f3b1d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.0,
+    "stock": 33,
+    "variants": [{ "name": "Warna", "options": ["Mint", "Pink", "Black"] }],
+    "createdAt": "2026-01-20T10:00:00.000Z",
+    "tags": ["kitchen", "portable"]
+  }
+]
+
